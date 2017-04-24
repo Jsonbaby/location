@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ed38e11f-622c-474f-b2b5-cf8d2cdeac29++8125",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "ed38e11f-622c-474f-b2b5-cf8d2cdeac29++8125" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ed38e11f-622c-474f-b2b5-cf8d2cdeac29++8125" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C3354643-4F8A-4CC9-B0E8-032B75AD5F11",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ed38e11f-622c-474f-b2b5-cf8d2cdeac29++8125" : "00%E4%BA%A7%E5%93%81%E8%A7%84%E5%88%92%E9%83%A8\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "定位demo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "定位demo\/定位demo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/114.215.84.27\/svn\/CityBao",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ed38e11f-622c-474f-b2b5-cf8d2cdeac29++8125"
+    }
+  ]
+}
